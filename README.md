@@ -1,7 +1,7 @@
 # Ayi's Skins
 
-# [ Ayi ](https://www.dropbox.com/home?preview=%E2%99%AA+Ayi+%E2%99%AA.osk)
-![](https://osu.ppy.sh/ss/14143168/7c69)
+# [ Toke ](https://www.dropbox.com/s/3xrvo4ks9gf1mi6/-%20Ayi%20Toke%20-.osk?dl=0)
+![](https://osu.ppy.sh/ss/14195915/6eda)
 
 # [ Dumii ](https://www.dropbox.com/s/o7wa21ckbz3fs7b/%E2%99%AA%20Ayi%20-%20Dumii%20%E2%99%AA.osk?dl=0)
 ![](https://osu.ppy.sh/ss/14143147/71d7)
